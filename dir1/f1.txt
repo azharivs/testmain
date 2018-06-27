@@ -1,1 +1,2 @@
 origin: f1.txt in dir1
+xxx
